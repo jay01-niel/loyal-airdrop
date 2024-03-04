@@ -80617,9 +80617,9 @@
                         children: [
                           (0, Pr.jsx)("span", {
                             className: "text-white",
-                            children: "BNB",
+                            children: "LUCKY",
                           }),
-                          "DOGE",
+                          ".",
                         ],
                       }),
                     ],
